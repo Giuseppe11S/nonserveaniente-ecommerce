@@ -29,11 +29,11 @@
 
 | Homepage | Cart |
 |---------|------|
-| ![](./public/screenshots/Homepage.png) | ![](./public/screenshots/Cart.png) |
+| ![](./public/images/Homepage.png) | ![](./public/images/Cart.png) |
 
 | Checkout | Payment |
 |----------|---------|
-| ![](./public/screenshots/Checkout.png) | ![](./public/screenshots/Payment.png) |
+| ![](./public/images/Checkout.png) | ![](./public/images/Payment.png) |
 
 
 ## 🧠 Note
