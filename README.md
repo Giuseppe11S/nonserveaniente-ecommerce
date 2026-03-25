@@ -24,6 +24,17 @@
 - Checkout con pagamento
 - UI responsive
 
+## Homepage
+## 📸 Screenshots
+
+| Homepage | Cart |
+|---------|------|
+| ![](./public/screenshots/Homepage.png) | ![](./public/screenshots/Cart.png) |
+
+| Checkout | Payment |
+|----------|---------|
+| ![](./public/screenshots/Checkout.png) | ![](./public/screenshots/Payment.png) |
+
 
 ## 🧠 Note
 Progetto sviluppato in team. Ho lavorato su specifiche parti (state management, cart, debugging).
